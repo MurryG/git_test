@@ -1,0 +1,1 @@
+This is Mercedes' first Phase 2 git project!
